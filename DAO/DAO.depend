@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1716066061 source:c:\users\lenovo\desktop\moulin3\dao\dao\main.cpp
+	<iostream>
+	<string>
+	<Windows.h>
+	<mysql.h>
+	<vector>
+	<memory>
+	"../../model/model/main.cpp"
+
+1716065611 c:\users\lenovo\desktop\moulin3\model\model\main.cpp
+	<iostream>
+	<string>
+
